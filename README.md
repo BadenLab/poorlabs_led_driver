@@ -1,4 +1,4 @@
-# Poorlabs led driver
+# Poorlabs stimulus generator
 A custom driver for Chrolis LED system from ThorLabs
 
 

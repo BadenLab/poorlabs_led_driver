@@ -1,4 +1,4 @@
-# Poorlabs_led_driver
+# Poorlabs led driver
 A custom driver for Chrolis LED system from ThorLabs
 
 

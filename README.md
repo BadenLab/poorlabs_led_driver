@@ -14,3 +14,11 @@ Skills required:
 - Coding (Arduino IDE / Micropython)
 - Soldering
 - Using a drill, screwdriver
+
+Links/tutorials used:
+- [getting started with ESP 32 and micropython](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
+- [controlling an ESP with micropython via a Jupyter notebook](https://towardsdatascience.com/micropython-on-esp-using-jupyter-6f366ff5ed9) 
+- datasheets:
+  - [Chips performing logical AND on the signals to control each LED and the blanking signal](https://www.mouser.co.uk/datasheet/2/308/74LS08-1190273.pdf)
+  - [Chip inverting the blanking signal (logical NOT)](https://www.mouser.co.uk/datasheet/2/308/1/MC74HC14A_D-2315678.pdf)
+

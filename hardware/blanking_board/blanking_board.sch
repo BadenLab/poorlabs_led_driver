@@ -433,4 +433,52 @@ F 3 " ~" H 9650 5900 50  0001 C CNN
 	1    9650 5900
 	0    1    1    0   
 $EndComp
+Text GLabel 10350 2750 0    50   Input ~ 0
+p1_chan1
+Text GLabel 10350 2950 0    50   Input ~ 0
+p1_chan2
+Text GLabel 10350 3150 0    50   Input ~ 0
+p1_chan3
+Text GLabel 10350 3350 0    50   Input ~ 0
+p1_chan4
+Text GLabel 10350 3550 0    50   Input ~ 0
+p1_chan5
+Text GLabel 10350 3750 0    50   Input ~ 0
+p1_chan6
+Wire Wire Line
+	10350 2750 10600 2750
+Wire Wire Line
+	10350 2950 10600 2950
+Wire Wire Line
+	10350 3150 10600 3150
+Wire Wire Line
+	10350 3350 10600 3350
+Wire Wire Line
+	10350 3550 10600 3550
+Wire Wire Line
+	10350 3750 10600 3750
+Text GLabel 9650 5500 1    50   Input ~ 0
+p2_chan1
+Text GLabel 8650 5500 1    50   Input ~ 0
+p2_chan6
+Text GLabel 8850 5500 1    50   Input ~ 0
+p2_chan5
+Text GLabel 9050 5500 1    50   Input ~ 0
+p2_chan4
+Text GLabel 9250 5500 1    50   Input ~ 0
+p2_chan3
+Text GLabel 9450 5500 1    50   Input ~ 0
+p2_chan2
+Wire Wire Line
+	9650 5500 9650 5600
+Wire Wire Line
+	9450 5500 9450 5600
+Wire Wire Line
+	9250 5500 9250 5600
+Wire Wire Line
+	9050 5500 9050 5600
+Wire Wire Line
+	8850 5500 8850 5600
+Wire Wire Line
+	8650 5500 8650 5600
 $EndSCHEMATC

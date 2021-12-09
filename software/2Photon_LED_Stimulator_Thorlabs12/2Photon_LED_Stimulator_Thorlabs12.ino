@@ -160,13 +160,13 @@ int            i;                           // iteration loop factor
 word           BaudRate      = 115200;      // Baud Rate
 // Label LEDs with GPIO pins
 int            led1Pin       = 16;           // Define 1st Channel (Beehive)       
-int            led2          = 17;           // Define 2nd Channel
-int            led3          = 5;            // Define 3rd Channel
-int            led4          = 18;           // Define 4th Channel
-int            led5          = 19;           // Define 5th Channel        
-int            led6          = 21;           // Define 6th Channel
-int            led7          = 22;           // Define 7th Channel 
-int            led8          = 23;           // Define 8th Channel 
+int            led2          = 17;           // Define 2nd Channel (Beehive)
+int            led3          = 5;            // Define 3rd Channel (Beehive)
+int            led4          = 18;           // Define 4th Channel (Beehive)
+int            led5          = 19;           // Define 5th Channel (Beehive)       
+int            led6          = 21;           // Define 6th Channel (Beehive)
+int            led7          = 22;           // Define 7th Channel (Beehive)
+int            led8          = 23;           // Define 8th Channel (Beehive)
 int            led9          = 14;           // Define 9th Channel (Beehive)
 int            led10         = 27;           // Define 10th Channel (Beehive)
 int            led11         = 26;          // Define 11th Channel (Beehive)

@@ -35,7 +35,7 @@ class PWM():
         
     def duty(self, new_duty):
         self.pwm_duty = new_duty if new_duty < 1023 else 1023
-        #self.run()
+        self.run()
         
     def deinit(self):
         self.RMT_obj.deinit()

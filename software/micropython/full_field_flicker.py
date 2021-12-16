@@ -25,14 +25,29 @@ class FFF:
             sp.count_time_ms(counter=self.baseline,triggered=0)
             print("done baseline")
         for trial in range(self.trials):
-            for led in self.ports.allLeds:
+            print ("start trial "+str(trial))
+            for led in self.ports.allLedsP1:
+                
+                led.duty(1024)
+                print ("LED on info: ",led, end = " " )
+                sp.count_time_ms(counter=self.onDuration,triggered=0)
+                #sys.stdout.write("\033")
+                #sp.count_time_ms(counter=self.onDuration,triggered=1,triggerPin=self.ports.trigger)
+                led.duty(0)
+                sp.count_time_ms(counter=self.onDuration,triggered=0)
+                #sp.count_time_ms(counter=self.offDuration,triggered=1,triggerPin=self.ports.trigger)
+        
+                
+            for led in self.ports.allLedsP2:
                 
                 led.duty(1024)
                 print ("LED on info: ",led )
+                sp.count_time_ms(counter=self.onDuration,triggered=0)
                 #sys.stdout.write("\033")
-                sp.count_time_ms(counter=self.onDuration,triggered=1,triggerPin=self.ports.trigger)
+                #sp.count_time_ms(counter=self.onDuration,triggered=1,triggerPin=self.ports.trigger)
                 led.duty(0)
-                sp.count_time_ms(counter=self.offDuration,triggered=1,triggerPin=self.ports.trigger)
+                sp.count_time_ms(counter=self.onDuration,triggered=0)
+                #sp.count_time_ms(counter=self.offDuration,triggered=1,triggerPin=self.ports.trigger)
+            print ("end trial "+str(led))
         
-                
-            
+        print("full field stimulation done")

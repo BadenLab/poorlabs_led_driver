@@ -60,10 +60,16 @@ class Leds:
         
         
         #make a list with all leds so that it is easier to control all of them with loops
-        self.allLeds = [self.led1,self.led2,self.led3,self.led4,self.led5,self.led6,
-                        self.led7,self.led8,self.led9,self.led10,self.led11,self.led12
-                       ]
+        self.allLedsP1 = [self.led1,self.led2,self.led3,self.led4,self.led5,self.led6]
+        self.allLedsP2 = [self.led7,self.led8,self.led9,self.led10,self.led11,self.led12]
+                        
 
         #turn all leds off for good measure
-        for led in self.allLeds:
+        for led in self.allLedsP1:
             led.init(freq=pwmFreq, duty=0)
+        
+        for led in self.allLedsP2:
+            led.init(freq=pwmFreq, duty=0)
+    
+    def deinit(led):
+        led.deinit()

@@ -28,24 +28,28 @@ class FFF:
             print ("start trial "+str(trial))
             for led in self.ports.allLedsP1:
                 
-                led.duty(1024)
+                led.duty(1023)
+                ports.trigger.value(1)
                 print ("LED on info: ",led, end = " " )
                 sp.count_time_ms(counter=self.onDuration,triggered=0)
                 #sys.stdout.write("\033")
                 #sp.count_time_ms(counter=self.onDuration,triggered=1,triggerPin=self.ports.trigger)
                 led.duty(0)
+                ports.trigger.value(0)
                 sp.count_time_ms(counter=self.onDuration,triggered=0)
                 #sp.count_time_ms(counter=self.offDuration,triggered=1,triggerPin=self.ports.trigger)
         
                 
             for led in self.ports.allLedsP2:
                 
-                led.duty(1024)
+                led.duty(1023)
+                ports.trigger.value(1)
                 print ("LED on info: ",led )
                 sp.count_time_ms(counter=self.onDuration,triggered=0)
                 #sys.stdout.write("\033")
                 #sp.count_time_ms(counter=self.onDuration,triggered=1,triggerPin=self.ports.trigger)
                 led.duty(0)
+                ports.trigger.value(0)
                 sp.count_time_ms(counter=self.onDuration,triggered=0)
                 #sp.count_time_ms(counter=self.offDuration,triggered=1,triggerPin=self.ports.trigger)
             print ("end trial "+str(led))

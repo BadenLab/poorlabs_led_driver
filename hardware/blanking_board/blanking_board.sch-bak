@@ -14,421 +14,377 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 74xx:74LS08 U?
-U 1 1 6196A7A7
-P 3350 1300
-F 0 "U?" H 3350 1625 50  0000 C CNN
-F 1 "74LS08" H 3350 1534 50  0000 C CNN
-F 2 "" H 3350 1300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3350 1300 50  0001 C CNN
-	1    3350 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS08 U?
-U 2 1 6196BEA7
-P 3400 1950
-F 0 "U?" H 3400 2275 50  0000 C CNN
-F 1 "74LS08" H 3400 2184 50  0000 C CNN
-F 2 "" H 3400 1950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3400 1950 50  0001 C CNN
-	2    3400 1950
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U2
 U 3 1 6196CEB2
-P 3350 2500
-F 0 "U?" H 3350 2825 50  0000 C CNN
-F 1 "74LS08" H 3350 2734 50  0000 C CNN
-F 2 "" H 3350 2500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3350 2500 50  0001 C CNN
-	3    3350 2500
+P 3200 3400
+F 0 "U2" H 3200 3725 50  0000 C CNN
+F 1 "74LS08" H 3200 3634 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3200 3400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3200 3400 50  0001 C CNN
+	3    3200 3400
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
-U 4 1 6196E64E
-P 3350 3100
-F 0 "U?" H 3350 3425 50  0000 C CNN
-F 1 "74LS08" H 3350 3334 50  0000 C CNN
-F 2 "" H 3350 3100 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3350 3100 50  0001 C CNN
-	4    3350 3100
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U2
 U 5 1 6196FC2E
-P 4800 5750
-F 0 "U?" V 4433 5750 50  0000 C CNN
-F 1 "74LS08" V 4524 5750 50  0000 C CNN
-F 2 "" H 4800 5750 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 4800 5750 50  0001 C CNN
-	5    4800 5750
+P 3150 1200
+F 0 "U2" V 2783 1200 50  0000 C CNN
+F 1 "74LS08" V 2874 1200 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3150 1200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3150 1200 50  0001 C CNN
+	5    3150 1200
 	0    1    1    0   
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U2
 U 1 1 619774AE
-P 3300 3700
-F 0 "U?" H 3300 4025 50  0000 C CNN
-F 1 "74LS08" H 3300 3934 50  0000 C CNN
-F 2 "" H 3300 3700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3300 3700 50  0001 C CNN
-	1    3300 3700
+P 3150 2200
+F 0 "U2" H 3150 2525 50  0000 C CNN
+F 1 "74LS08" H 3150 2434 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3150 2200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3150 2200 50  0001 C CNN
+	1    3150 2200
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U2
 U 2 1 619774B4
-P 3300 4300
-F 0 "U?" H 3300 4625 50  0000 C CNN
-F 1 "74LS08" H 3300 4534 50  0000 C CNN
-F 2 "" H 3300 4300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3300 4300 50  0001 C CNN
-	2    3300 4300
+P 3200 2850
+F 0 "U2" H 3200 3175 50  0000 C CNN
+F 1 "74LS08" H 3200 3084 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3200 2850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3200 2850 50  0001 C CNN
+	2    3200 2850
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U4
 U 3 1 619774BA
-P 6600 3550
-F 0 "U?" H 6600 3875 50  0000 C CNN
-F 1 "74LS08" H 6600 3784 50  0000 C CNN
-F 2 "" H 6600 3550 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6600 3550 50  0001 C CNN
-	3    6600 3550
+P 6400 4450
+F 0 "U4" H 6400 4775 50  0000 C CNN
+F 1 "74LS08" H 6400 4684 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6400 4450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6400 4450 50  0001 C CNN
+	3    6400 4450
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
-U 4 1 619774C0
-P 6600 4150
-F 0 "U?" H 6600 4475 50  0000 C CNN
-F 1 "74LS08" H 6600 4384 50  0000 C CNN
-F 2 "" H 6600 4150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6600 4150 50  0001 C CNN
-	4    6600 4150
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U3
 U 5 1 619774C6
-P 5150 6850
-F 0 "U?" V 4783 6850 50  0000 C CNN
-F 1 "74LS08" V 4874 6850 50  0000 C CNN
-F 2 "" H 5150 6850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 5150 6850 50  0001 C CNN
-	5    5150 6850
+P 6350 1150
+F 0 "U3" V 5983 1150 50  0000 C CNN
+F 1 "74LS08" V 6074 1150 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6350 1150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6350 1150 50  0001 C CNN
+	5    6350 1150
 	0    1    1    0   
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U4
 U 1 1 6197E841
-P 6600 1200
-F 0 "U?" H 6600 1525 50  0000 C CNN
-F 1 "74LS08" H 6600 1434 50  0000 C CNN
-F 2 "" H 6600 1200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6600 1200 50  0001 C CNN
-	1    6600 1200
+P 6400 3300
+F 0 "U4" H 6400 3625 50  0000 C CNN
+F 1 "74LS08" H 6400 3534 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6400 3300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6400 3300 50  0001 C CNN
+	1    6400 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U4
 U 2 1 6197E847
-P 6650 1850
-F 0 "U?" H 6650 2175 50  0000 C CNN
-F 1 "74LS08" H 6650 2084 50  0000 C CNN
-F 2 "" H 6650 1850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6650 1850 50  0001 C CNN
-	2    6650 1850
+P 6400 3900
+F 0 "U4" H 6400 4225 50  0000 C CNN
+F 1 "74LS08" H 6400 4134 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6400 3900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6400 3900 50  0001 C CNN
+	2    6400 3900
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U3
 U 3 1 6197E84D
-P 6600 2400
-F 0 "U?" H 6600 2725 50  0000 C CNN
-F 1 "74LS08" H 6600 2634 50  0000 C CNN
-F 2 "" H 6600 2400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6600 2400 50  0001 C CNN
-	3    6600 2400
+P 6400 2100
+F 0 "U3" H 6400 2425 50  0000 C CNN
+F 1 "74LS08" H 6400 2334 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6400 2100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6400 2100 50  0001 C CNN
+	3    6400 2100
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U3
 U 4 1 6197E853
-P 6600 3000
-F 0 "U?" H 6600 3325 50  0000 C CNN
-F 1 "74LS08" H 6600 3234 50  0000 C CNN
-F 2 "" H 6600 3000 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6600 3000 50  0001 C CNN
-	4    6600 3000
+P 6450 2750
+F 0 "U3" H 6450 3075 50  0000 C CNN
+F 1 "74LS08" H 6450 2984 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6450 2750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6450 2750 50  0001 C CNN
+	4    6450 2750
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS08 U?
+L 74xx:74LS08 U4
 U 5 1 6197E859
-P 6700 5050
-F 0 "U?" V 6333 5050 50  0000 C CNN
-F 1 "74LS08" V 6424 5050 50  0000 C CNN
-F 2 "" H 6700 5050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6700 5050 50  0001 C CNN
-	5    6700 5050
+P 6500 5950
+F 0 "U4" V 6133 5950 50  0000 C CNN
+F 1 "74LS08" V 6224 5950 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6500 5950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6500 5950 50  0001 C CNN
+	5    6500 5950
 	0    1    1    0   
 $EndComp
 $Comp
-L 74xx:74HC14 U?
+L 74xx:74HC14 U1
 U 1 1 6197EF32
-P 3250 5450
-F 0 "U?" H 3250 5767 50  0000 C CNN
-F 1 "74HC14" H 3250 5676 50  0000 C CNN
-F 2 "" H 3250 5450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3250 5450 50  0001 C CNN
-	1    3250 5450
+P 3050 6350
+F 0 "U1" H 3050 6667 50  0000 C CNN
+F 1 "74HC14" H 3050 6576 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3050 6350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3050 6350 50  0001 C CNN
+	1    3050 6350
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74HC14 U?
+L 74xx:74HC14 U1
 U 7 1 6197FEF4
-P 3250 6150
-F 0 "U?" V 2883 6150 50  0000 C CNN
-F 1 "74HC14" V 2974 6150 50  0000 C CNN
-F 2 "" H 3250 6150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3250 6150 50  0001 C CNN
-	7    3250 6150
+P 3050 7050
+F 0 "U1" V 2683 7050 50  0000 C CNN
+F 1 "74HC14" V 2774 7050 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3050 7050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3050 7050 50  0001 C CNN
+	7    3050 7050
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0101
 U 1 1 6198142E
-P 5400 5700
-F 0 "#PWR?" H 5400 5550 50  0001 C CNN
-F 1 "+5V" H 5415 5873 50  0000 C CNN
-F 2 "" H 5400 5700 50  0001 C CNN
-F 3 "" H 5400 5700 50  0001 C CNN
-	1    5400 5700
+P 3750 1150
+F 0 "#PWR0101" H 3750 1000 50  0001 C CNN
+F 1 "+5V" H 3765 1323 50  0000 C CNN
+F 2 "" H 3750 1150 50  0001 C CNN
+F 3 "" H 3750 1150 50  0001 C CNN
+	1    3750 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0102
 U 1 1 619827ED
-P 5750 6850
-F 0 "#PWR?" H 5750 6700 50  0001 C CNN
-F 1 "+5V" H 5765 7023 50  0000 C CNN
-F 2 "" H 5750 6850 50  0001 C CNN
-F 3 "" H 5750 6850 50  0001 C CNN
-	1    5750 6850
+P 6950 1150
+F 0 "#PWR0102" H 6950 1000 50  0001 C CNN
+F 1 "+5V" H 6965 1323 50  0000 C CNN
+F 2 "" H 6950 1150 50  0001 C CNN
+F 3 "" H 6950 1150 50  0001 C CNN
+	1    6950 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0103
 U 1 1 61982C15
-P 7300 5000
-F 0 "#PWR?" H 7300 4850 50  0001 C CNN
-F 1 "+5V" H 7315 5173 50  0000 C CNN
-F 2 "" H 7300 5000 50  0001 C CNN
-F 3 "" H 7300 5000 50  0001 C CNN
-	1    7300 5000
+P 7100 5900
+F 0 "#PWR0103" H 7100 5750 50  0001 C CNN
+F 1 "+5V" H 7115 6073 50  0000 C CNN
+F 2 "" H 7100 5900 50  0001 C CNN
+F 3 "" H 7100 5900 50  0001 C CNN
+	1    7100 5900
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0104
 U 1 1 6198307E
-P 3800 6100
-F 0 "#PWR?" H 3800 5950 50  0001 C CNN
-F 1 "+5V" H 3815 6273 50  0000 C CNN
-F 2 "" H 3800 6100 50  0001 C CNN
-F 3 "" H 3800 6100 50  0001 C CNN
-	1    3800 6100
+P 3600 7000
+F 0 "#PWR0104" H 3600 6850 50  0001 C CNN
+F 1 "+5V" H 3615 7173 50  0000 C CNN
+F 2 "" H 3600 7000 50  0001 C CNN
+F 3 "" H 3600 7000 50  0001 C CNN
+	1    3600 7000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R?
+L Device:R_Small R1
 U 1 1 61983889
-P 2750 5450
-F 0 "R?" V 2554 5450 50  0000 C CNN
-F 1 "1k" V 2645 5450 50  0000 C CNN
-F 2 "" H 2750 5450 50  0001 C CNN
-F 3 "~" H 2750 5450 50  0001 C CNN
-	1    2750 5450
+P 2550 6350
+F 0 "R1" V 2354 6350 50  0000 C CNN
+F 1 "1k" V 2445 6350 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal" H 2550 6350 50  0001 C CNN
+F 3 "~" H 2550 6350 50  0001 C CNN
+	1    2550 6350
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2850 5450 2900 5450
+	2650 6350 2700 6350
 Wire Wire Line
-	3750 6150 3800 6150
+	3550 7050 3600 7050
 Wire Wire Line
-	3800 6150 3800 6100
+	3600 7050 3600 7000
 Wire Wire Line
-	5300 5750 5400 5750
+	3650 1200 3750 1200
 Wire Wire Line
-	5400 5750 5400 5700
+	3750 1200 3750 1150
 Wire Wire Line
-	5650 6850 5750 6850
+	6850 1150 6950 1150
 Wire Wire Line
-	7200 5050 7300 5050
+	7000 5950 7100 5950
 Wire Wire Line
-	7300 5050 7300 5000
+	7100 5950 7100 5900
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J2
 U 1 1 619877FA
-P 1750 1100
-F 0 "J?" V 1525 1108 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 1616 1108 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 1950 1300 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1950 1400 60  0001 L CNN
-F 4 "455-2249-ND" H 1950 1500 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 1950 1600 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 1950 1700 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 1950 1800 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1950 1900 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 1950 2000 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 1950 2100 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 1950 2200 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 1950 2300 60  0001 L CNN "Status"
-	1    1750 1100
+P 1550 2000
+F 0 "J2" V 1325 2008 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 1416 2008 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 1750 2200 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1750 2300 60  0001 L CNN
+F 4 "455-2249-ND" H 1750 2400 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 1750 2500 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 1750 2600 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 1750 2700 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1750 2800 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 1750 2900 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 1750 3000 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 1750 3100 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 1750 3200 60  0001 L CNN "Status"
+	1    1550 2000
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J1
 U 1 1 61988D22
-P 1700 2500
-F 0 "J?" V 1475 2508 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 1566 2508 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 1900 2700 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1900 2800 60  0001 L CNN
-F 4 "455-2249-ND" H 1900 2900 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 1900 3000 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 1900 3100 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 1900 3200 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1900 3300 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 1900 3400 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 1900 3500 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 1900 3600 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 1900 3700 60  0001 L CNN "Status"
-	1    1700 2500
+P 1500 3400
+F 0 "J1" V 1275 3408 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 1366 3408 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 1700 3600 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1700 3700 60  0001 L CNN
+F 4 "455-2249-ND" H 1700 3800 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 1700 3900 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 1700 4000 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 1700 4100 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1700 4200 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 1700 4300 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 1700 4400 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 1700 4500 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 1700 4600 60  0001 L CNN "Status"
+	1    1500 3400
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J3
 U 1 1 619896E1
-P 1800 4000
-F 0 "J?" V 1575 4008 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 1666 4008 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 2000 4200 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2000 4300 60  0001 L CNN
-F 4 "455-2249-ND" H 2000 4400 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 2000 4500 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 2000 4600 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 2000 4700 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2000 4800 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 2000 4900 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 2000 5000 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 2000 5100 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 2000 5200 60  0001 L CNN "Status"
-	1    1800 4000
+P 1600 4900
+F 0 "J3" V 1375 4908 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 1466 4908 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 1800 5100 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1800 5200 60  0001 L CNN
+F 4 "455-2249-ND" H 1800 5300 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 1800 5400 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 1800 5500 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 1800 5600 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 1800 5700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 1800 5800 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 1800 5900 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 1800 6000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 1800 6100 60  0001 L CNN "Status"
+	1    1600 4900
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J7
 U 1 1 61989DDE
-P 5500 3400
-F 0 "J?" V 5275 3408 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 5366 3408 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 5700 3600 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5700 3700 60  0001 L CNN
-F 4 "455-2249-ND" H 5700 3800 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 5700 3900 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 5700 4000 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 5700 4100 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5700 4200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5700 4300 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 5700 4400 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 5700 4500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5700 4600 60  0001 L CNN "Status"
-	1    5500 3400
+P 5300 4300
+F 0 "J7" V 5075 4308 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 5166 4308 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 5500 4500 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5500 4600 60  0001 L CNN
+F 4 "455-2249-ND" H 5500 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 5500 4800 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 5500 4900 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 5500 5000 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5500 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5500 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 5500 5300 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 5500 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5500 5500 60  0001 L CNN "Status"
+	1    5300 4300
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J6
 U 1 1 6198A3A7
-P 5500 1400
-F 0 "J?" V 5275 1408 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 5366 1408 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 5700 1600 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5700 1700 60  0001 L CNN
-F 4 "455-2249-ND" H 5700 1800 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 5700 1900 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 5700 2000 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 5700 2100 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5700 2200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5700 2300 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 5700 2400 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 5700 2500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5700 2600 60  0001 L CNN "Status"
-	1    5500 1400
+P 5300 2300
+F 0 "J6" V 5075 2308 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 5166 2308 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 5500 2500 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5500 2600 60  0001 L CNN
+F 4 "455-2249-ND" H 5500 2700 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 5500 2800 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 5500 2900 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 5500 3000 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5500 3100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5500 3200 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 5500 3300 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 5500 3400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5500 3500 60  0001 L CNN "Status"
+	1    5300 2300
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J5
 U 1 1 6198A708
-P 5450 2650
-F 0 "J?" V 5225 2658 50  0000 C CNN
-F 1 "B4B-XH-A_LF__SN_" V 5316 2658 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 5650 2850 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5650 2950 60  0001 L CNN
-F 4 "455-2249-ND" H 5650 3050 60  0001 L CNN "Digi-Key_PN"
-F 5 "B4B-XH-A(LF)(SN)" H 5650 3150 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 5650 3250 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 5650 3350 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5650 3450 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5650 3550 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 4POS 2.5MM" H 5650 3650 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 5650 3750 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5650 3850 60  0001 L CNN "Status"
-	1    5450 2650
+P 5250 3550
+F 0 "J5" V 5025 3558 50  0000 C CNN
+F 1 "B4B-XH-A_LF__SN_" V 5116 3558 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 5450 3750 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5450 3850 60  0001 L CNN
+F 4 "455-2249-ND" H 5450 3950 60  0001 L CNN "Digi-Key_PN"
+F 5 "B4B-XH-A(LF)(SN)" H 5450 4050 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 5450 4150 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 5450 4250 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 5450 4350 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047" H 5450 4450 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 4POS 2.5MM" H 5450 4550 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 5450 4650 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5450 4750 60  0001 L CNN "Status"
+	1    5250 3550
 	0    1    1    0   
 $EndComp
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B2B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B2B-XH-A_LF__SN_ J4
 U 1 1 6198B113
-P 2150 5450
-F 0 "J?" V 1925 5458 50  0000 C CNN
-F 1 "B2B-XH-A_LF__SN_" V 2016 5458 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" H 2350 5650 60  0001 L CNN
-F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2350 5750 60  0001 L CNN
-F 4 "455-2247-ND" H 2350 5850 60  0001 L CNN "Digi-Key_PN"
-F 5 "B2B-XH-A(LF)(SN)" H 2350 5950 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 2350 6050 60  0001 L CNN "Category"
-F 7 "Rectangular Connectors - Headers, Male Pins" H 2350 6150 60  0001 L CNN "Family"
-F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2350 6250 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/jst-sales-america-inc/B2B-XH-A(LF)(SN)/455-2247-ND/1651045" H 2350 6350 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN HEADER VERT 2POS 2.5MM" H 2350 6450 60  0001 L CNN "Description"
-F 11 "JST Sales America Inc." H 2350 6550 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 2350 6650 60  0001 L CNN "Status"
-	1    2150 5450
+P 1950 6350
+F 0 "J4" V 1725 6358 50  0000 C CNN
+F 1 "B2B-XH-A_LF__SN_" V 1816 6358 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 2150 6550 60  0001 L CNN
+F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2150 6650 60  0001 L CNN
+F 4 "455-2247-ND" H 2150 6750 60  0001 L CNN "Digi-Key_PN"
+F 5 "B2B-XH-A(LF)(SN)" H 2150 6850 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 2150 6950 60  0001 L CNN "Category"
+F 7 "Rectangular Connectors - Headers, Male Pins" H 2150 7050 60  0001 L CNN "Family"
+F 8 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 2150 7150 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/jst-sales-america-inc/B2B-XH-A(LF)(SN)/455-2247-ND/1651045" H 2150 7250 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN HEADER VERT 2POS 2.5MM" H 2150 7350 60  0001 L CNN "Description"
+F 11 "JST Sales America Inc." H 2150 7450 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 2150 7550 60  0001 L CNN "Status"
+	1    1950 6350
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:DB25_Female_MountingHoles J?
+L Connector:DB25_Female_MountingHoles J12
 U 1 1 6198D42E
 P 10900 2750
-F 0 "J?" H 11080 2752 50  0000 L CNN
+F 0 "J12" H 11080 2752 50  0000 L CNN
 F 1 "DB25_Female_MountingHoles" H 11080 2661 50  0000 L CNN
-F 2 "" H 10900 2750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical" H 10900 2750 50  0001 C CNN
 F 3 " ~" H 10900 2750 50  0001 C CNN
 	1    10900 2750
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:DB25_Female_MountingHoles J?
+L Connector:DB25_Female_MountingHoles J11
 U 1 1 6198FA5A
 P 9650 5900
-F 0 "J?" V 9875 5855 50  0000 C CNN
+F 0 "J11" V 9875 5855 50  0000 C CNN
 F 1 "DB25_Female_MountingHoles" V 9966 5855 50  0000 C CNN
-F 2 "" H 9650 5900 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical" H 9650 5900 50  0001 C CNN
 F 3 " ~" H 9650 5900 50  0001 C CNN
 	1    9650 5900
 	0    1    1    0   
@@ -482,10 +438,10 @@ Wire Wire Line
 Wire Wire Line
 	8650 5500 8650 5600
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0105
 U 1 1 623DABDE
 P 10300 1550
-F 0 "#PWR?" H 10300 1300 50  0001 C CNN
+F 0 "#PWR0105" H 10300 1300 50  0001 C CNN
 F 1 "GND" H 10305 1377 50  0000 C CNN
 F 2 "" H 10300 1550 50  0001 C CNN
 F 3 "" H 10300 1550 50  0001 C CNN
@@ -572,10 +528,10 @@ Wire Wire Line
 	10900 4250 10900 4150
 Connection ~ 10500 3950
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0106
 U 1 1 623FAE24
 P 8150 5300
-F 0 "#PWR?" H 8150 5050 50  0001 C CNN
+F 0 "#PWR0106" H 8150 5050 50  0001 C CNN
 F 1 "GND" H 8155 5127 50  0000 C CNN
 F 2 "" H 8150 5300 50  0001 C CNN
 F 3 "" H 8150 5300 50  0001 C CNN
@@ -664,81 +620,81 @@ NoConn ~ 10250 5600
 NoConn ~ 10050 5600
 NoConn ~ 9850 5600
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0107
 U 1 1 6243F71C
-P 2400 5650
-F 0 "#PWR?" H 2400 5400 50  0001 C CNN
-F 1 "GND" H 2405 5477 50  0000 C CNN
-F 2 "" H 2400 5650 50  0001 C CNN
-F 3 "" H 2400 5650 50  0001 C CNN
-	1    2400 5650
+P 2200 6550
+F 0 "#PWR0107" H 2200 6300 50  0001 C CNN
+F 1 "GND" H 2205 6377 50  0000 C CNN
+F 2 "" H 2200 6550 50  0001 C CNN
+F 3 "" H 2200 6550 50  0001 C CNN
+	1    2200 6550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2400 5650 2400 5550
+	2200 6550 2200 6450
 Wire Wire Line
-	2400 5550 2250 5550
+	2200 6450 2050 6450
 Wire Wire Line
-	2250 5450 2650 5450
+	2050 6350 2450 6350
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0108
 U 1 1 62562A87
-P 6050 5050
-F 0 "#PWR?" H 6050 4800 50  0001 C CNN
-F 1 "GND" V 6055 4922 50  0000 R CNN
-F 2 "" H 6050 5050 50  0001 C CNN
-F 3 "" H 6050 5050 50  0001 C CNN
-	1    6050 5050
+P 5850 5950
+F 0 "#PWR0108" H 5850 5700 50  0001 C CNN
+F 1 "GND" V 5855 5822 50  0000 R CNN
+F 2 "" H 5850 5950 50  0001 C CNN
+F 3 "" H 5850 5950 50  0001 C CNN
+	1    5850 5950
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6050 5050 6200 5050
+	5850 5950 6000 5950
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0109
 U 1 1 6256AB90
-P 4200 5750
-F 0 "#PWR?" H 4200 5500 50  0001 C CNN
-F 1 "GND" V 4205 5622 50  0000 R CNN
-F 2 "" H 4200 5750 50  0001 C CNN
-F 3 "" H 4200 5750 50  0001 C CNN
-	1    4200 5750
+P 2550 1200
+F 0 "#PWR0109" H 2550 950 50  0001 C CNN
+F 1 "GND" V 2555 1072 50  0000 R CNN
+F 2 "" H 2550 1200 50  0001 C CNN
+F 3 "" H 2550 1200 50  0001 C CNN
+	1    2550 1200
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0110
 U 1 1 6256EFE1
-P 4550 6850
-F 0 "#PWR?" H 4550 6600 50  0001 C CNN
-F 1 "GND" V 4555 6722 50  0000 R CNN
-F 2 "" H 4550 6850 50  0001 C CNN
-F 3 "" H 4550 6850 50  0001 C CNN
-	1    4550 6850
+P 5750 1150
+F 0 "#PWR0110" H 5750 900 50  0001 C CNN
+F 1 "GND" V 5755 1022 50  0000 R CNN
+F 2 "" H 5750 1150 50  0001 C CNN
+F 3 "" H 5750 1150 50  0001 C CNN
+	1    5750 1150
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4200 5750 4300 5750
+	2550 1200 2650 1200
 Wire Wire Line
-	4550 6850 4650 6850
+	5750 1150 5850 1150
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0111
 U 1 1 6257972C
-P 2650 6150
-F 0 "#PWR?" H 2650 5900 50  0001 C CNN
-F 1 "GND" V 2655 6022 50  0000 R CNN
-F 2 "" H 2650 6150 50  0001 C CNN
-F 3 "" H 2650 6150 50  0001 C CNN
-	1    2650 6150
+P 2450 7050
+F 0 "#PWR0111" H 2450 6800 50  0001 C CNN
+F 1 "GND" V 2455 6922 50  0000 R CNN
+F 2 "" H 2450 7050 50  0001 C CNN
+F 3 "" H 2450 7050 50  0001 C CNN
+	1    2450 7050
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2650 6150 2750 6150
+	2450 7050 2550 7050
 $Comp
-L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J?
+L dk_Rectangular-Connectors-Headers-Male-Pins:B4B-XH-A_LF__SN_ J8
 U 1 1 6257D630
 P 8200 1400
-F 0 "J?" V 7975 1408 50  0000 C CNN
+F 0 "J8" V 7975 1408 50  0000 C CNN
 F 1 "B4B-XH-A_LF__SN_" V 8066 1408 50  0000 C CNN
-F 2 "digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm" H 8400 1600 60  0001 L CNN
+F 2 "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 8400 1600 60  0001 L CNN
 F 3 "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf" H 8400 1700 60  0001 L CNN
 F 4 "455-2249-ND" H 8400 1800 60  0001 L CNN "Digi-Key_PN"
 F 5 "B4B-XH-A(LF)(SN)" H 8400 1900 60  0001 L CNN "MPN"
@@ -753,100 +709,100 @@ F 12 "Active" H 8400 2600 60  0001 L CNN "Status"
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0112
 U 1 1 625DBEA4
-P 2050 4400
-F 0 "#PWR?" H 2050 4150 50  0001 C CNN
-F 1 "GND" H 2055 4227 50  0000 C CNN
-F 2 "" H 2050 4400 50  0001 C CNN
-F 3 "" H 2050 4400 50  0001 C CNN
-	1    2050 4400
+P 1850 5300
+F 0 "#PWR0112" H 1850 5050 50  0001 C CNN
+F 1 "GND" H 1855 5127 50  0000 C CNN
+F 2 "" H 1850 5300 50  0001 C CNN
+F 3 "" H 1850 5300 50  0001 C CNN
+	1    1850 5300
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0113
 U 1 1 625DCB30
-P 1950 2900
-F 0 "#PWR?" H 1950 2650 50  0001 C CNN
-F 1 "GND" H 1955 2727 50  0000 C CNN
-F 2 "" H 1950 2900 50  0001 C CNN
-F 3 "" H 1950 2900 50  0001 C CNN
-	1    1950 2900
+P 1750 3800
+F 0 "#PWR0113" H 1750 3550 50  0001 C CNN
+F 1 "GND" H 1755 3627 50  0000 C CNN
+F 2 "" H 1750 3800 50  0001 C CNN
+F 3 "" H 1750 3800 50  0001 C CNN
+	1    1750 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0114
 U 1 1 625DD6DC
-P 1950 1500
-F 0 "#PWR?" H 1950 1250 50  0001 C CNN
-F 1 "GND" H 1955 1327 50  0000 C CNN
-F 2 "" H 1950 1500 50  0001 C CNN
-F 3 "" H 1950 1500 50  0001 C CNN
-	1    1950 1500
+P 1750 2400
+F 0 "#PWR0114" H 1750 2150 50  0001 C CNN
+F 1 "GND" H 1755 2227 50  0000 C CNN
+F 2 "" H 1750 2400 50  0001 C CNN
+F 3 "" H 1750 2400 50  0001 C CNN
+	1    1750 2400
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0115
 U 1 1 625DE378
-P 5700 1800
-F 0 "#PWR?" H 5700 1550 50  0001 C CNN
-F 1 "GND" H 5705 1627 50  0000 C CNN
-F 2 "" H 5700 1800 50  0001 C CNN
-F 3 "" H 5700 1800 50  0001 C CNN
-	1    5700 1800
+P 5500 2700
+F 0 "#PWR0115" H 5500 2450 50  0001 C CNN
+F 1 "GND" H 5505 2527 50  0000 C CNN
+F 2 "" H 5500 2700 50  0001 C CNN
+F 3 "" H 5500 2700 50  0001 C CNN
+	1    5500 2700
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0116
 U 1 1 625DF18F
-P 5700 3050
-F 0 "#PWR?" H 5700 2800 50  0001 C CNN
-F 1 "GND" H 5705 2877 50  0000 C CNN
-F 2 "" H 5700 3050 50  0001 C CNN
-F 3 "" H 5700 3050 50  0001 C CNN
-	1    5700 3050
+P 5500 3950
+F 0 "#PWR0116" H 5500 3700 50  0001 C CNN
+F 1 "GND" H 5505 3777 50  0000 C CNN
+F 2 "" H 5500 3950 50  0001 C CNN
+F 3 "" H 5500 3950 50  0001 C CNN
+	1    5500 3950
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0117
 U 1 1 625DFD70
-P 5700 3750
-F 0 "#PWR?" H 5700 3500 50  0001 C CNN
-F 1 "GND" H 5705 3577 50  0000 C CNN
-F 2 "" H 5700 3750 50  0001 C CNN
-F 3 "" H 5700 3750 50  0001 C CNN
-	1    5700 3750
+P 5500 4650
+F 0 "#PWR0117" H 5500 4400 50  0001 C CNN
+F 1 "GND" H 5505 4477 50  0000 C CNN
+F 2 "" H 5500 4650 50  0001 C CNN
+F 3 "" H 5500 4650 50  0001 C CNN
+	1    5500 4650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5600 3700 5700 3700
+	5400 4600 5500 4600
 Wire Wire Line
-	5700 3700 5700 3750
+	5500 4600 5500 4650
 Wire Wire Line
-	5550 2950 5700 2950
+	5350 3850 5500 3850
 Wire Wire Line
-	5700 2950 5700 3050
+	5500 3850 5500 3950
 Wire Wire Line
-	5600 1700 5700 1700
+	5400 2600 5500 2600
 Wire Wire Line
-	5700 1700 5700 1800
+	5500 2600 5500 2700
 Wire Wire Line
-	1850 1400 1950 1400
+	1650 2300 1750 2300
 Wire Wire Line
-	1950 1400 1950 1500
+	1750 2300 1750 2400
 Wire Wire Line
-	1800 2800 1950 2800
+	1600 3700 1750 3700
 Wire Wire Line
-	1950 2800 1950 2900
+	1750 3700 1750 3800
 Wire Wire Line
-	1900 4300 2050 4300
+	1700 5200 1850 5200
 Wire Wire Line
-	2050 4300 2050 4400
+	1850 5200 1850 5300
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0118
 U 1 1 6260088C
 P 8400 1750
-F 0 "#PWR?" H 8400 1500 50  0001 C CNN
+F 0 "#PWR0118" H 8400 1500 50  0001 C CNN
 F 1 "GND" H 8405 1577 50  0000 C CNN
 F 2 "" H 8400 1750 50  0001 C CNN
 F 3 "" H 8400 1750 50  0001 C CNN
@@ -858,181 +814,150 @@ Wire Wire Line
 Wire Wire Line
 	8400 1700 8400 1750
 Wire Wire Line
-	1850 1100 2700 1100
+	1650 2000 2500 2000
 Wire Wire Line
-	1850 1200 2550 1200
+	1650 2100 2350 2100
 Wire Wire Line
-	2550 1200 2550 1850
+	2350 2100 2350 2750
 Wire Wire Line
-	2550 1850 3100 1850
+	1600 3400 2250 3400
 Wire Wire Line
-	1800 2500 2450 2500
+	2250 3400 2250 3300
 Wire Wire Line
-	2450 2500 2450 2400
+	1600 3500 2250 3500
 Wire Wire Line
-	2450 2400 3050 2400
+	2250 3500 2250 3900
 Wire Wire Line
-	1800 2600 2450 2600
+	1700 4900 2200 4900
 Wire Wire Line
-	2450 2600 2450 3000
+	2200 4900 2200 4500
 Wire Wire Line
-	2450 3000 3050 3000
+	2800 5000 2800 5100
 Wire Wire Line
-	1900 4000 2400 4000
+	1700 5000 2800 5000
 Wire Wire Line
-	2400 4000 2400 3600
+	5400 2300 5800 2300
 Wire Wire Line
-	2400 3600 3000 3600
+	5800 2300 5800 2000
 Wire Wire Line
-	3000 4100 3000 4200
+	5800 2000 6100 2000
 Wire Wire Line
-	1900 4100 3000 4100
+	5400 2400 6000 2400
 Wire Wire Line
-	5600 1400 6000 1400
+	6000 2400 6000 2650
 Wire Wire Line
-	6000 1400 6000 1100
+	6000 2650 6150 2650
 Wire Wire Line
-	6000 1100 6300 1100
+	5350 3550 5550 3550
 Wire Wire Line
-	5600 1500 6200 1500
+	5550 3550 5550 3200
 Wire Wire Line
-	6200 1500 6200 1750
+	5550 3200 6100 3200
 Wire Wire Line
-	6200 1750 6350 1750
+	5350 3650 5850 3650
 Wire Wire Line
-	5550 2650 5750 2650
+	5850 3650 5850 3800
 Wire Wire Line
-	5750 2650 5750 2300
+	5850 3800 6100 3800
 Wire Wire Line
-	5750 2300 6300 2300
+	5400 4300 5750 4300
 Wire Wire Line
-	5550 2750 6050 2750
+	5750 4300 5750 4350
 Wire Wire Line
-	6050 2750 6050 2900
+	5750 4350 6100 4350
 Wire Wire Line
-	6050 2900 6300 2900
+	5400 4400 5800 4400
 Wire Wire Line
-	5600 3400 5950 3400
+	5800 4400 5800 4950
+Text GLabel 3400 5750 2    50   Input ~ 0
+synch
+Text GLabel 2450 1700 0    50   Input ~ 0
+synch
 Wire Wire Line
-	5950 3400 5950 3450
+	2600 2300 2850 2300
 Wire Wire Line
-	5950 3450 6300 3450
+	2600 4700 2600 5300
 Wire Wire Line
-	5600 3500 6000 3500
+	2600 5300 2800 5300
+Connection ~ 2600 4700
 Wire Wire Line
-	6000 3500 6000 4050
+	2450 1700 2600 1700
 Wire Wire Line
-	6000 4050 6300 4050
-Text GLabel 3600 4850 2    50   Input ~ 0
-blanking
-Text GLabel 2650 800  0    50   Input ~ 0
-blanking
+	2500 2100 2500 2000
 Wire Wire Line
-	2800 1400 3050 1400
+	2500 2100 2850 2100
 Wire Wire Line
-	2800 1400 2800 2050
+	2600 1700 2600 2300
+Connection ~ 2600 2300
+Text GLabel 5700 1750 0    50   Input ~ 0
+synch
 Wire Wire Line
-	2800 2050 3100 2050
+	5700 1750 5950 1750
 Wire Wire Line
-	2800 2050 2800 2600
+	5950 1750 5950 2200
 Wire Wire Line
-	2800 2600 3050 2600
-Connection ~ 2800 2050
+	5950 2200 6100 2200
 Wire Wire Line
-	2800 2600 2800 3200
+	5950 2200 5950 2850
 Wire Wire Line
-	2800 3200 3050 3200
-Connection ~ 2800 2600
+	5950 2850 6150 2850
+Connection ~ 5950 2200
 Wire Wire Line
-	2800 3200 2800 3800
+	5950 2850 5950 3400
 Wire Wire Line
-	2800 3800 3000 3800
-Connection ~ 2800 3200
+	5950 3400 6100 3400
+Connection ~ 5950 2850
 Wire Wire Line
-	2800 3800 2800 4400
+	5950 3400 5950 4000
 Wire Wire Line
-	2800 4400 3000 4400
-Connection ~ 2800 3800
+	5950 4000 6100 4000
+Connection ~ 5950 3400
 Wire Wire Line
-	2650 800  2800 800 
+	5950 4000 5950 4550
 Wire Wire Line
-	2700 1200 2700 1100
+	5950 4550 6100 4550
+Connection ~ 5950 4000
 Wire Wire Line
-	2700 1200 3050 1200
-Wire Wire Line
-	2800 800  2800 1400
-Connection ~ 2800 1400
-Text GLabel 5900 850  0    50   Input ~ 0
-blanking
-Wire Wire Line
-	5900 850  6150 850 
-Wire Wire Line
-	6150 850  6150 1300
-Wire Wire Line
-	6150 1300 6300 1300
-Wire Wire Line
-	6150 1300 6150 1950
-Wire Wire Line
-	6150 1950 6350 1950
-Connection ~ 6150 1300
-Wire Wire Line
-	6150 1950 6150 2500
-Wire Wire Line
-	6150 2500 6300 2500
-Connection ~ 6150 1950
-Wire Wire Line
-	6150 2500 6150 3100
-Wire Wire Line
-	6150 3100 6300 3100
-Connection ~ 6150 2500
-Wire Wire Line
-	6150 3100 6150 3650
-Wire Wire Line
-	6150 3650 6300 3650
-Connection ~ 6150 3100
-Wire Wire Line
-	6150 3650 6150 4250
-Wire Wire Line
-	6150 4250 6300 4250
-Connection ~ 6150 3650
+	5950 4550 5950 5150
+Connection ~ 5950 4550
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0119
 U 1 1 62706FB3
-P 2000 1300
-F 0 "#PWR?" H 2000 1150 50  0001 C CNN
-F 1 "+5V" H 2015 1473 50  0000 C CNN
-F 2 "" H 2000 1300 50  0001 C CNN
-F 3 "" H 2000 1300 50  0001 C CNN
-	1    2000 1300
+P 1800 2200
+F 0 "#PWR0119" H 1800 2050 50  0001 C CNN
+F 1 "+5V" H 1815 2373 50  0000 C CNN
+F 2 "" H 1800 2200 50  0001 C CNN
+F 3 "" H 1800 2200 50  0001 C CNN
+	1    1800 2200
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0120
 U 1 1 62707E4E
-P 1950 2700
-F 0 "#PWR?" H 1950 2550 50  0001 C CNN
-F 1 "+5V" H 1965 2873 50  0000 C CNN
-F 2 "" H 1950 2700 50  0001 C CNN
-F 3 "" H 1950 2700 50  0001 C CNN
-	1    1950 2700
+P 1750 3600
+F 0 "#PWR0120" H 1750 3450 50  0001 C CNN
+F 1 "+5V" H 1765 3773 50  0000 C CNN
+F 2 "" H 1750 3600 50  0001 C CNN
+F 3 "" H 1750 3600 50  0001 C CNN
+	1    1750 3600
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0121
 U 1 1 62708B3C
-P 2050 4200
-F 0 "#PWR?" H 2050 4050 50  0001 C CNN
-F 1 "+5V" H 2065 4373 50  0000 C CNN
-F 2 "" H 2050 4200 50  0001 C CNN
-F 3 "" H 2050 4200 50  0001 C CNN
-	1    2050 4200
+P 1850 5100
+F 0 "#PWR0121" H 1850 4950 50  0001 C CNN
+F 1 "+5V" H 1865 5273 50  0000 C CNN
+F 2 "" H 1850 5100 50  0001 C CNN
+F 3 "" H 1850 5100 50  0001 C CNN
+	1    1850 5100
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0122
 U 1 1 627098E3
 P 8450 1600
-F 0 "#PWR?" H 8450 1450 50  0001 C CNN
+F 0 "#PWR0122" H 8450 1450 50  0001 C CNN
 F 1 "+5V" H 8465 1773 50  0000 C CNN
 F 2 "" H 8450 1600 50  0001 C CNN
 F 3 "" H 8450 1600 50  0001 C CNN
@@ -1040,108 +965,104 @@ F 3 "" H 8450 1600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0123
 U 1 1 6270DE12
-P 5750 1600
-F 0 "#PWR?" H 5750 1450 50  0001 C CNN
-F 1 "+5V" H 5765 1773 50  0000 C CNN
-F 2 "" H 5750 1600 50  0001 C CNN
-F 3 "" H 5750 1600 50  0001 C CNN
-	1    5750 1600
+P 5550 2500
+F 0 "#PWR0123" H 5550 2350 50  0001 C CNN
+F 1 "+5V" H 5565 2673 50  0000 C CNN
+F 2 "" H 5550 2500 50  0001 C CNN
+F 3 "" H 5550 2500 50  0001 C CNN
+	1    5550 2500
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0124
 U 1 1 6270F606
-P 5700 2850
-F 0 "#PWR?" H 5700 2700 50  0001 C CNN
-F 1 "+5V" H 5715 3023 50  0000 C CNN
-F 2 "" H 5700 2850 50  0001 C CNN
-F 3 "" H 5700 2850 50  0001 C CNN
-	1    5700 2850
+P 5500 3750
+F 0 "#PWR0124" H 5500 3600 50  0001 C CNN
+F 1 "+5V" H 5515 3923 50  0000 C CNN
+F 2 "" H 5500 3750 50  0001 C CNN
+F 3 "" H 5500 3750 50  0001 C CNN
+	1    5500 3750
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0125
 U 1 1 6271045F
-P 5750 3600
-F 0 "#PWR?" H 5750 3450 50  0001 C CNN
-F 1 "+5V" H 5765 3773 50  0000 C CNN
-F 2 "" H 5750 3600 50  0001 C CNN
-F 3 "" H 5750 3600 50  0001 C CNN
-	1    5750 3600
+P 5550 4500
+F 0 "#PWR0125" H 5550 4350 50  0001 C CNN
+F 1 "+5V" H 5565 4673 50  0000 C CNN
+F 2 "" H 5550 4500 50  0001 C CNN
+F 3 "" H 5550 4500 50  0001 C CNN
+	1    5550 4500
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1850 1300 2000 1300
+	1650 2200 1800 2200
 Wire Wire Line
-	1800 2700 1950 2700
+	1600 3600 1750 3600
 Wire Wire Line
-	1900 4200 2050 4200
+	1700 5100 1850 5100
 Wire Wire Line
-	5550 2850 5700 2850
+	5350 3750 5500 3750
 Wire Wire Line
-	5600 1600 5750 1600
+	5400 2500 5550 2500
 Wire Wire Line
-	5600 3600 5750 3600
+	5400 4500 5550 4500
 Wire Wire Line
 	8300 1600 8450 1600
-Text GLabel 4000 1300 2    50   Input ~ 0
-p1_chan1
-Text GLabel 4000 1950 2    50   Input ~ 0
-p1_chan2
-Text GLabel 4000 2500 2    50   Input ~ 0
+Text GLabel 3800 3400 2    50   Input ~ 0
 p1_chan3
-Text GLabel 4000 3100 2    50   Input ~ 0
+Text GLabel 3800 4000 2    50   Input ~ 0
 p1_chan4
-Text GLabel 4000 3700 2    50   Input ~ 0
+Text GLabel 3800 4600 2    50   Input ~ 0
 p1_chan5
-Text GLabel 4000 4300 2    50   Input ~ 0
+Text GLabel 3800 5200 2    50   Input ~ 0
 p1_chan6
 $Comp
-L Device:Jumper_NC_Dual JP?
+L Device:Jumper_NC_Dual JP1
 U 1 1 62764464
-P 3250 4850
-F 0 "JP?" V 3296 4952 50  0000 L CNN
-F 1 "Jumper_NC_Dual" V 3205 4952 50  0000 L CNN
-F 2 "" H 3250 4850 50  0001 C CNN
-F 3 "~" H 3250 4850 50  0001 C CNN
-	1    3250 4850
+P 3050 5750
+F 0 "JP1" V 3096 5852 50  0000 L CNN
+F 1 "Jumper_NC_Dual" V 3005 5852 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 3050 5750 50  0001 C CNN
+F 3 "~" H 3050 5750 50  0001 C CNN
+	1    3050 5750
 	0    -1   -1   0   
 $EndComp
-Connection ~ 2900 5450
+Connection ~ 2700 6350
 Wire Wire Line
-	2900 5450 2950 5450
+	2700 6350 2750 6350
 Wire Wire Line
-	3250 5100 3250 5150
+	3050 6000 3050 6050
 Wire Wire Line
-	3550 5150 3550 5450
+	3350 6050 3350 6350
 Wire Wire Line
-	3250 5150 3550 5150
+	3050 6050 3350 6050
 Wire Wire Line
-	3600 4850 3350 4850
+	3400 5750 3150 5750
 Wire Wire Line
-	2900 4600 3250 4600
+	2700 5500 3050 5500
 Wire Wire Line
-	2900 4600 2900 5450
+	2700 5500 2700 6350
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J9
 U 1 1 628219DD
 P 8900 950
-F 0 "J?" H 8928 926 50  0000 L CNN
+F 0 "J9" H 8928 926 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 8928 835 50  0000 L CNN
-F 2 "" H 8900 950 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 8900 950 50  0001 C CNN
 F 3 "~" H 8900 950 50  0001 C CNN
 	1    8900 950 
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J10
 U 1 1 6282941C
 P 8950 1500
-F 0 "J?" H 8978 1476 50  0000 L CNN
+F 0 "J10" H 8978 1476 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 8978 1385 50  0000 L CNN
-F 2 "" H 8950 1500 50  0001 C CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 8950 1500 50  0001 C CNN
 F 3 "~" H 8950 1500 50  0001 C CNN
 	1    8950 1500
 	1    0    0    -1  
@@ -1151,10 +1072,10 @@ Wire Wire Line
 Wire Wire Line
 	8300 1500 8750 1500
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0126
 U 1 1 62849B72
 P 8600 1200
-F 0 "#PWR?" H 8600 950 50  0001 C CNN
+F 0 "#PWR0126" H 8600 950 50  0001 C CNN
 F 1 "GND" H 8605 1027 50  0000 C CNN
 F 2 "" H 8600 1200 50  0001 C CNN
 F 3 "" H 8600 1200 50  0001 C CNN
@@ -1172,26 +1093,129 @@ Wire Wire Line
 Wire Wire Line
 	8600 1050 8700 1050
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0127
 U 1 1 62876335
 P 8750 1700
-F 0 "#PWR?" H 8750 1450 50  0001 C CNN
+F 0 "#PWR0127" H 8750 1450 50  0001 C CNN
 F 1 "GND" H 8755 1527 50  0000 C CNN
 F 2 "" H 8750 1700 50  0001 C CNN
 F 3 "" H 8750 1700 50  0001 C CNN
 	1    8750 1700
 	1    0    0    -1  
 $EndComp
-Text GLabel 7050 1200 2    50   Input ~ 0
+Text GLabel 6850 2100 2    50   Input ~ 0
 p2_chan1
-Text GLabel 7100 1850 2    50   Input ~ 0
+Text GLabel 6900 2750 2    50   Input ~ 0
 p2_chan2
-Text GLabel 7100 2400 2    50   Input ~ 0
+Text GLabel 6900 3300 2    50   Input ~ 0
 p2_chan3
-Text GLabel 7150 3000 2    50   Input ~ 0
+Text GLabel 6950 3900 2    50   Input ~ 0
 p2_chan4
-Text GLabel 7150 3550 2    50   Input ~ 0
+Text GLabel 6950 4450 2    50   Input ~ 0
 p2_chan5
-Text GLabel 7100 4150 2    50   Input ~ 0
+Text GLabel 6900 5050 2    50   Input ~ 0
 p2_chan6
+Connection ~ 2600 4100
+Wire Wire Line
+	2600 4100 2600 4700
+Wire Wire Line
+	2600 4100 2850 4100
+Wire Wire Line
+	2250 3900 2850 3900
+$Comp
+L 74xx:74LS08 U2
+U 4 1 6196E64E
+P 3150 4000
+F 0 "U2" H 3150 4325 50  0000 C CNN
+F 1 "74LS08" H 3150 4234 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3150 4000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3150 4000 50  0001 C CNN
+	4    3150 4000
+	1    0    0    -1  
+$EndComp
+Connection ~ 2600 2950
+Wire Wire Line
+	2600 2950 2600 3500
+Wire Wire Line
+	2600 2300 2600 2950
+Text GLabel 3800 2850 2    50   Input ~ 0
+p1_chan2
+Text GLabel 3800 2200 2    50   Input ~ 0
+p1_chan1
+Wire Wire Line
+	2600 2950 2900 2950
+Wire Wire Line
+	2350 2750 2900 2750
+$Comp
+L 74xx:74LS08 U3
+U 2 1 6196BEA7
+P 3100 5200
+F 0 "U3" H 3100 5525 50  0000 C CNN
+F 1 "74LS08" H 3100 5434 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3100 5200 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3100 5200 50  0001 C CNN
+	2    3100 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 4700 2800 4700
+Wire Wire Line
+	2200 4500 2800 4500
+$Comp
+L 74xx:74LS08 U3
+U 1 1 6196A7A7
+P 3100 4600
+F 0 "U3" H 3100 4925 50  0000 C CNN
+F 1 "74LS08" H 3100 4834 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 3100 4600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 3100 4600 50  0001 C CNN
+	1    3100 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5950 5150 6100 5150
+Wire Wire Line
+	5800 4950 6100 4950
+$Comp
+L 74xx:74LS08 U4
+U 4 1 619774C0
+P 6400 5050
+F 0 "U4" H 6400 5375 50  0000 C CNN
+F 1 "74LS08" H 6400 5284 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 6400 5050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74LS08" H 6400 5050 50  0001 C CNN
+	4    6400 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 3300 2250 3300
+Wire Wire Line
+	2900 3500 2600 3500
+Connection ~ 2600 3500
+Wire Wire Line
+	2600 3500 2600 4100
+Wire Wire Line
+	3450 2200 3800 2200
+Wire Wire Line
+	3500 2850 3800 2850
+Wire Wire Line
+	3500 3400 3800 3400
+Wire Wire Line
+	3450 4000 3800 4000
+Wire Wire Line
+	3400 4600 3800 4600
+Wire Wire Line
+	3400 5200 3800 5200
+Wire Wire Line
+	6700 2100 6850 2100
+Wire Wire Line
+	6750 2750 6900 2750
+Wire Wire Line
+	6700 3300 6900 3300
+Wire Wire Line
+	6700 3900 6950 3900
+Wire Wire Line
+	6700 4450 6950 4450
+Wire Wire Line
+	6700 5050 6900 5050
 $EndSCHEMATC

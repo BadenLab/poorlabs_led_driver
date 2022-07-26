@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "blanking_board-rescue")(type "Legacy")(uri "${KIPRJMOD}/blanking_board-rescue.lib")(options "")(descr ""))
+)
